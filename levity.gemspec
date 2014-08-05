@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Levity::VERSION
   spec.authors       = ["Gosuke Miyashita"]
   spec.email         = ["gosukenator@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{levity}
+  spec.description   = %q{levity}
   spec.homepage      = ""
   spec.license       = "MIT"
 
